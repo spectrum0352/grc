@@ -2,22 +2,22 @@
 
 Skills oriented toward a post-quantum, quantum-native world:
 
-8. post-quantum-cryptography
+## 1. post-quantum-cryptography
 Migration guidance from classical to PQC algorithms (CRYSTALS-Kyber, CRYSTALS-Dilithium, SPHINCS+) — NIST PQC standard implementation patterns, hybrid classical/quantum transition strategies.
 
-9. quantum-threat-assessment
+## 2. quantum-threat-assessment
 Helps assess which current systems are vulnerable to future quantum attacks (Harvest Now, Decrypt Later scenarios), crypto-agility planning, and timeline risk modeling.
 
-10. quantum-safe-architecture
+## 3. quantum-safe-architecture
 Guides design of infrastructure resilient to quantum adversaries: quantum-resistant TLS, certificate lifecycle management, HSM migration paths, and zero-trust architectures for a post-RSA world.
 
-11. quantum-algorithm-advisory
+## 4. quantum-algorithm-advisory
 Explains quantum computing capabilities relevant to security — Shor's algorithm implications, Grover's search impact on symmetric key lengths, quantum key distribution (QKD) feasibility.
 
-12. quantum-ai-security
+## 5. quantum-ai-security
 Future-looking skill covering the intersection: quantum ML attacks on classical AI, quantum-enhanced adversarial examples, and security of quantum neural networks.
 
-Which to Build?
+## 6. Which to Build?
 Would you like me to create one or more of these as actual SKILL.md files right now? I'd suggest starting with:
 	• post-quantum-cryptography — most immediately actionable given NIST standards are finalizing
 	• ai-threat-modeling — broad utility across security teams today

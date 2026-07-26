@@ -3,7 +3,7 @@
 
 Artificial Intelligence is being adopted across Microsoft 365, Azure, Dynamics 365, Microsoft Copilot, and custom AI solutions at an unprecedented pace. While these technologies improve productivity and operational efficiency, many organisations discover that governance fails before the technology itself.
 
-For British oil and energy companies, where operational technology (OT), critical infrastructure, intellectual property, and regulatory compliance intersect, weak AI governance can introduce significant cybersecurity, privacy, operational, and business risks.
+For oil and energy companies, where operational technology (OT), critical infrastructure, intellectual property, and regulatory compliance intersect, weak AI governance can introduce significant cybersecurity, privacy, operational, and business risks.
 
 ---
 
